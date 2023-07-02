@@ -12,7 +12,7 @@ redirect_from:
 [Link](http://hannah-aught.github.io/files/CV.pdf)
 
 
-<!-- Education -->
+<!-- Education
 ======
 * B.A.S. in Computer Science and Linguistics, UC Davis, 2021
 
