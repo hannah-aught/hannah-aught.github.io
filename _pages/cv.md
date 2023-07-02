@@ -9,11 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+[Link](http://hannah-aught.github.io/files/CV.pdf)
+
+
+<!-- Education -->
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A.S. in Computer Science and Linguistics, UC Davis, 2021
 
 Work experience
 ======
@@ -56,4 +57,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
