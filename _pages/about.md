@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year PhD candidate at the National University of Singapore. My research interests are in trustworthy natural language processing---specifically measuring and improving social bias, privacy leakage, and copyright violation in large language models. My interest in NLP comes from my background in sociolinguistics, which I try to incorporate into my research whenever possible.
+I am a third year PhD candidate at the National University of Singapore advised by Prof. Kenji Kawaguchi. My research interests are in trustworthy natural language processing---specifically measuring and improving social bias, privacy leakage, and copyright violation in large language models. My interest in NLP comes from my background in sociolinguistics, which I try to incorporate into my research whenever possible.
 
 Outside of research, you can find me looking for new ways to ride a bicycle around Singapore, reading, or practicing Aikido.
 
